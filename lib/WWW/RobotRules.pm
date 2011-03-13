@@ -1,6 +1,6 @@
 package WWW::RobotRules;
 
-$VERSION = "6.00";
+$VERSION = "6.01";
 sub Version { $VERSION; }
 
 use strict;
