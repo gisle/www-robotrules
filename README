@@ -134,3 +134,10 @@ ROBOTS.TXT EXAMPLES
 SEE ALSO
     LWP::RobotUA, WWW::RobotRules::AnyDBM_File
 
+COPYRIGHT
+      Copyright 1995-2009, Gisle Aas
+      Copyright 1995, Martijn Koster
+
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
