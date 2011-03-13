@@ -18,7 +18,7 @@ WriteMakefile(
     },
     META_MERGE => {
 	resources => {
-            repository => 'http://github.com/gisle/libwww-perl',
+            repository => 'http://github.com/gisle/libwww-perl/tree/WWW-RobotRules/master',
 	    MailingList => 'mailto:libwww@perl.org',
         }
     },
