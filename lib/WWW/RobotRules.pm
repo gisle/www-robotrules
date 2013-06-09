@@ -378,7 +378,7 @@ describing access policy for.  If more than one I<User-Agent> field is
 present the record describes an identical access policy for more than
 one robot. At least one field needs to be present per record.  If the
 value is '*', the record describes the default access policy for any
-robot that has not not matched any of the other records.
+robot that has not matched any of the other records.
 
 The I<User-Agent> fields must occur before the I<Disallow> fields.  If a
 record contains a I<User-Agent> field after a I<Disallow> field, that
