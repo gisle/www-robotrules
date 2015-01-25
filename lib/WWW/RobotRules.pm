@@ -168,7 +168,7 @@ sub allowed {
 sub agent;
 sub visit;
 sub no_visits;
-sub last_visits;
+sub last_visit;
 sub fresh_until;
 sub push_rules;
 sub clear_rules;
